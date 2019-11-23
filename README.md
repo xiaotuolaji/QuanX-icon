@@ -1,4 +1,4 @@
-# Qure<br>
+## Qure<br>
 ![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Logo.png)
 <br>
 
